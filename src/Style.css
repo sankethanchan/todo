@@ -1,0 +1,65 @@
+body {
+    background-color:#ffffff;
+    font-family: "Poppins", sans-serif;
+}
+.headerbg {
+    background-color: #492e7b;
+}
+.headerbg h1 {
+    font-size: 22px;
+    font-weight: 700;
+    color: #ffffff;
+    padding: 20px 10px 20px 10px;
+}
+.headerbg p {
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: 700;
+    padding-top: 20px;
+}
+.text-right {
+    text-align: right !important;
+}
+.addtask {
+    background-color: #01d7a2;
+    margin-bottom: 0px;
+    font-size: 18px;
+    font-weight: 500;
+    padding: 16px;
+    color: #042c22;
+}
+.addtask-details {
+    background-color: #d6f0ea;
+}
+.addtask-details label {
+    font-weight: 500;
+    font-size: 14px;
+    color: #042c22;
+}
+
+.table>thead {
+    --bs-table-bg: #593d8a !important;
+    --bs-table-color: #ffffff;
+}
+.table>tbody {
+    --bs-table-bg: #ebe8f0 !important;
+    --bs-table-border-color: #ccbee3;
+    --bs-table-color: #492e7b;
+    font-size: 14px;
+}
+.task-h2 {
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.edit {
+    background-color: #01d7a2;
+    padding: 5px 10px 5px 10px;
+    color: #000000;
+    margin-right: 5px;
+}
+.delete {
+    background-color: #de113a;
+    padding: 5px 10px 5px 10px;
+    color: #fefefe;
+}
